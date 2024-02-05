@@ -1,0 +1,1279 @@
+INFO - 2024-01-12 00:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 00:24:55 --> Too few arguments to function App\Controllers\Anasayfa::incele(), 0 passed in C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Anasayfa.php on line 95.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 00:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 00:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:20:17 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:20:51 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:20:52 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:21:41 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:21:42 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:21:54 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:21:55 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 5.
+ 1 APPPATH\Views\sayfalar\incele.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 5, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:24:52 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:24:53 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:24:54 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:24:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:24:54 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:24:55 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:24:56 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:26:43 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:26:43 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(113): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:28:09 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:28:13 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:29:28 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:29:30 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:31:53 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:31:54 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:32:18 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:32:19 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:33:04 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:33:05 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:38:17 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:42:30 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 01:46:34 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 01:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 01:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:18:40 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:20:12 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 14.
+ 1 APPPATH\Views\sayfalar\incele.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 14, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:20:15 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 14.
+ 1 APPPATH\Views\sayfalar\incele.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 14, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:23:26 --> preg_match(): Compilation failed: missing closing parenthesis at offset 24
+in SYSTEMPATH\Router\Router.php on line 422.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): Compilation failed: missing closing parenthesis at offset 24', 'C:\\xampp\\htdocs\\is_makinalari\\system\\Router\\Router.php', 422, [...])
+ 2 SYSTEMPATH\Router\Router.php(422): preg_match('#^kayit_düzenle/([0-9]+$#u', 'kayit_duzenle/2', [])
+ 3 SYSTEMPATH\Router\Router.php(184): CodeIgniter\Router\Router->checkRoutes('kayit_duzenle/2')
+ 4 SYSTEMPATH\CodeIgniter.php(800): CodeIgniter\Router\Router->handle('kayit_duzenle/2')
+ 5 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:26:39 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:26:40 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:26:41 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:26:42 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:26:45 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:27:14 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:27:15 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:27:15 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:27:15 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:29:23 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:29:26 --> Undefined index: id
+in APPPATH\Views\sayfalar\kayit_duzenle.php on line 4.
+ 1 APPPATH\Views\sayfalar\kayit_duzenle.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php', 4, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\kayit_duzenle.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/kayit_duzenle', [], true)
+ 5 APPPATH\Controllers\Panel.php(165): view('sayfalar/kayit_duzenle')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('2')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:33:08 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:39:03 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:39:04 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:39:04 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:39:05 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:39:07 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('kazıcı_yükleyici')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:44:48 --> CSRF token verified.
+INFO - 2024-01-12 02:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 02:47:40 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 298.
+ 1 SYSTEMPATH\Security\Security.php(298): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(55): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('kayit_duzenle/2', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 02:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:03 --> CSRF token verified.
+INFO - 2024-01-12 02:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 02:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:07 --> CSRF token verified.
+INFO - 2024-01-12 08:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:37 --> CSRF token verified.
+INFO - 2024-01-12 08:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:42 --> CSRF token verified.
+INFO - 2024-01-12 08:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:21:12 --> The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 298.
+ 1 SYSTEMPATH\Security\Security.php(298): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(55): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('kayit_duzenle/3', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 08:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:21:28 --> CSRF token verified.
+INFO - 2024-01-12 08:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:21:28 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirr', 'asfalt_silindirr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 08:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 08:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:43:42 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(114): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('asfalt_silindir')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 08:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:49:22 --> Invalid file: "tema/panelheader.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tema/panelheader.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('tema/panelheader', [], true)
+ 3 APPPATH\Controllers\Anasayfa.php(115): view('tema/panelheader', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('asfalt_silindir')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 08:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:49:53 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(115): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('asfalt_silindir')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 08:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:53:38 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(115): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('asfalt_silindir')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 08:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 08:55:54 --> Undefined variable: veri
+in APPPATH\Views\sayfalar\incele.php on line 8.
+ 1 APPPATH\Views\sayfalar\incele.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: veri', 'C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\is_makinalari\\app\\Views\\sayfalar\\incele.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('sayfalar/incele', [], true)
+ 5 APPPATH\Controllers\Anasayfa.php(115): view('sayfalar/incele')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Anasayfa->incele('asfalt_silindir')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:31 --> CSRF token verified.
+INFO - 2024-01-12 09:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:11:12 --> CSRF token verified.
+INFO - 2024-01-12 09:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:11:12 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirr', 'asfalt_silindirr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:12:44 --> CSRF token verified.
+INFO - 2024-01-12 09:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:12:44 --> "Asfalt Silindirr" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 317.
+ 1 SYSTEMPATH\Validation\Validation.php(317): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Asfalt Silindirr')
+ 2 SYSTEMPATH\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('baslik', 'baslik', 'Asfalt Silindirr', [...], [...])
+ 3 SYSTEMPATH\Controller.php(150): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Panel.php(175): CodeIgniter\Controller->validate([...], [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:12:51 --> CSRF token verified.
+INFO - 2024-01-12 09:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:12:51 --> "Asfalt Silindirr" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 317.
+ 1 SYSTEMPATH\Validation\Validation.php(317): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('Asfalt Silindirr')
+ 2 SYSTEMPATH\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('baslik', 'baslik', 'Asfalt Silindirr', [...], [...])
+ 3 SYSTEMPATH\Controller.php(150): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Panel.php(175): CodeIgniter\Controller->validate([...], [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:13 --> CSRF token verified.
+INFO - 2024-01-12 09:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:13:39 --> CSRF token verified.
+INFO - 2024-01-12 09:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:13:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindir', 'asfalt_silindir', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:17:59 --> CSRF token verified.
+INFO - 2024-01-12 09:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:17:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindir', 'asfalt_silindir', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:18:01 --> CSRF token verified.
+INFO - 2024-01-12 09:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:18:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindir', 'asfalt_silindir', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:18:07 --> CSRF token verified.
+INFO - 2024-01-12 09:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:18:07 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrr', 'asfalt_silindirrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:22:47 --> CSRF token verified.
+INFO - 2024-01-12 09:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:22:47 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrr', 'asfalt_silindirrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:22:48 --> CSRF token verified.
+INFO - 2024-01-12 09:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:22:48 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrr', 'asfalt_silindirrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:22:52 --> CSRF token verified.
+INFO - 2024-01-12 09:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:22:52 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrr', 'asfalt_silindirrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:23:07 --> CSRF token verified.
+INFO - 2024-01-12 09:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:23:07 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 54.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrr', 'asfalt_silindirrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:28:11 --> CSRF token verified.
+INFO - 2024-01-12 09:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-12 09:28:11 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::uptade()
+in APPPATH\Models\PanelModel.php on line 55.
+ 1 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrrrrr', 'asfalt_silindirrrrrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:30:25 --> CSRF token verified.
+INFO - 2024-01-12 09:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-12 09:30:26 --> mysqli_sql_exception: Duplicate entry '3' for key 'PRIMARY' in C:\xampp\htdocs\is_makinalari\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\is_makinalari\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `makinal...', 0)
+#1 C:\xampp\htdocs\is_makinalari\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `makinal...')
+#2 C:\xampp\htdocs\is_makinalari\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `makinal...')
+#3 C:\xampp\htdocs\is_makinalari\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `makinal...', Array, false)
+#4 C:\xampp\htdocs\is_makinalari\app\Models\PanelModel.php(55): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\is_makinalari\app\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindir...', 'asfalt_silindir...', '\xC3\x87al\xC4\xB1\xC5\x9Fma Geni...', '3')
+#6 C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+#7 C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#8 C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\is_makinalari\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-12 09:30:26 --> Duplicate entry '3' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `makinalar` SET `baslik` = :baslik:, `id` = :id:, `url` = :url:, `icerik` = :icerik:', [...], false)
+ 2 APPPATH\Models\PanelModel.php(55): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirrrrrrrrr', 'asfalt_silindirrrrrrrrr', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:24 --> CSRF token verified.
+INFO - 2024-01-12 09:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-12 09:31:24 --> mysqli_sql_exception: Duplicate entry '3' for key 'PRIMARY' in C:\xampp\htdocs\is_makinalari\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\is_makinalari\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `makinal...', 0)
+#1 C:\xampp\htdocs\is_makinalari\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `makinal...')
+#2 C:\xampp\htdocs\is_makinalari\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `makinal...')
+#3 C:\xampp\htdocs\is_makinalari\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `makinal...', Array, false)
+#4 C:\xampp\htdocs\is_makinalari\app\Models\PanelModel.php(55): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\is_makinalari\app\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindir...', 'asfalt_silindir...', '\xC3\x87al\xC4\xB1\xC5\x9Fma Geni...', '3')
+#6 C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+#7 C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+#8 C:\xampp\htdocs\is_makinalari\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\is_makinalari\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-12 09:31:24 --> Duplicate entry '3' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `makinalar` SET `baslik` = :baslik:, `id` = :id:, `url` = :url:, `icerik` = :icerik:', [...], false)
+ 2 APPPATH\Models\PanelModel.php(55): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Panel.php(184): App\Models\PanelModel->veri_duzenle('Asfalt Silindirkkk', 'asfalt_silindirkkk', 'Çalışma Genişliği ve Çapı: Asfalt silindirinin genişliği ve çapı, bir seferde işlenebilecek alanın büyüklüğünü belirler.Titreşim Sistemi: Asfalt sıkıştırma işlemine yardımcı olmak için bir titreşim sistemi olabilir.Motor Gücü: Silindiri tahrik etmek için kullanılan motorun gücü.Hidrolik Sistem: Hidrolik sistem, silindirin hareketini ve kontrolünü sağlar.Kontrol Sistemi: Silindirin hızını, titreşimini ve diğer işlevlerini kontrol etmek için bir kontrol paneline sahip olabilir.Su Tankı: Asfaltın daha iyi sıkıştırılabilmesi için silindirin altına su püskürtmek için bir su tankı.Kompakt Tasarım: Mini tandem asfalt silindirleri genellikle kompakt ve taşınabilir olma eğilimindedir.', '3')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Panel->kayit_duzenle('3')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-12 09:31:52 --> CSRF token verified.
+INFO - 2024-01-12 09:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:56 --> CSRF token verified.
+INFO - 2024-01-12 09:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:32:00 --> CSRF token verified.
+INFO - 2024-01-12 09:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:54 --> CSRF token verified.
+INFO - 2024-01-12 09:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:30 --> CSRF token verified.
+INFO - 2024-01-12 09:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-12 09:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
